@@ -1,2 +1,5 @@
 ﻿  Lab 1.cpp
-  Game 1011.vcxproj -> F:\Game 1011\Debug\Lab 1.exe
+F:\GitProjects\GAME-1011\Game 1011\Game 1011\Header.h(130,23): warning C4018: '<': signed/unsigned mismatch
+F:\GitProjects\GAME-1011\Game 1011\Game 1011\Lab 1.cpp(62,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\GitProjects\GAME-1011\Game 1011\Game 1011\Lab 1.cpp(66,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Game 1011.vcxproj -> F:\GitProjects\GAME-1011\Game 1011\Debug\Lab 1.exe
